@@ -8,3 +8,5 @@ You can run this project locally just do:
 * cd reactjs-slider-app
 * npm install
 * npm start
+
+[Demo](https://vdmiler.github.io/reactjs-slider-page/)
